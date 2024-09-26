@@ -89,7 +89,7 @@ export default function DashboardLayout({
       </div>
       {/* Right */}
       <div
-        className={`w-[95%] ${
+        className={`w-[95%] flex flex-col ${
           open ? "lg:w-[82%]" : "w-[95%]"
         }  bg-gray-50 overflow-scroll`}
       >
