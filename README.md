@@ -18,7 +18,7 @@ Before you start, ensure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/iramamy/SchoolDashboard.git
+git clone https://github.com/iramamy/School-Management-Dashboard .git
 cd SchoolDashboard
 ```
 
